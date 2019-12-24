@@ -1,0 +1,26 @@
+{
+  "name": "gitee-webhook-pro",
+  "version": "1.0.2",
+  "description": "webhook for gitee",
+  "main": "gitee-webhook-pro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kungege/gitee-webhook-pro.git"
+  },
+  "keywords": [
+    "webhook",
+    "gitee"
+  ],
+  "author": "kungege",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kungege/gitee-webhook-pro/issues"
+  },
+  "homepage": "https://github.com/kungege/gitee-webhook-pro#readme",
+  "dependencies": {
+    "bl": "^4.0.0"
+  }
+}
